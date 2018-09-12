@@ -1,0 +1,6 @@
+pandas
+numpy
+tensorflow
+python-daemon==2.1.2
+luigi==2.7.6
+scikit-learn
